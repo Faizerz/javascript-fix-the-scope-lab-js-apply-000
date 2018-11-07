@@ -4,7 +4,7 @@ function myAnimal() {
   return 'dog'
 }
 
-function yourAnimal(animal) {
+function yourAnimal() {
   return 'cat'
 }
 
